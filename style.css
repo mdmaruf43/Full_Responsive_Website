@@ -35,6 +35,7 @@ header{
 	background: #35424a;
 	min-height: 70px;
 	border-bottom: 3px solid #e3491d;
+	position: fixed;
 }	
 
 header a{
