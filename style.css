@@ -36,6 +36,7 @@ header{
 	min-height: 70px;
 	border-bottom: 3px solid #e3491d;
 	position: fixed;
+	width: 100%;
 }	
 
 header a{
